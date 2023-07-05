@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace POO
+namespace Classes
 {
     internal class Program
     {

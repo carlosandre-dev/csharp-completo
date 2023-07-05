@@ -1,4 +1,4 @@
-﻿namespace POO
+﻿namespace Classes
 {
     internal class People
     {
